@@ -1,0 +1,1 @@
+docker build -t kalilinux:kali-custom -f ./docker/kali/Dockerfile .
